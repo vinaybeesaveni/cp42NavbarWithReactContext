@@ -1,0 +1,23 @@
+.home-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+.home-light {
+  background-color: white;
+}
+.home-dark {
+  background-color: black;
+}
+.home-img-light {
+  width: 150px;
+  height: 150px;
+}
+.home-heading-dark {
+  color: white;
+}
+.home-heading-light {
+  color: black;
+}

@@ -1,0 +1,32 @@
+.not-found-img-light {
+  width: 300px;
+  height: 300px;
+}
+.not-found-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+.not-found-dark {
+  background-color: black;
+}
+.not-found-light {
+  background-color: white;
+}
+.not-found-heading {
+  font-size: 30px;
+  font-weight: 500;
+}
+.not-found-details-dark {
+  color: white;
+}
+.not-found-details-light {
+  color: black;
+}
+.not-found-description {
+  max-width: 250px;
+  text-align: center;
+  font-size: 16px;
+}
